@@ -1,0 +1,1 @@
+No he conseguido hacer funcionar el tema de los errores, muestra mensaje pero los crea igualmente, no sé como hacerlo para que no cree el elemento en el array, ni como usar el tema de los filtros.
